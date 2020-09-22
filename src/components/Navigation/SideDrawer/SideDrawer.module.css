@@ -19,13 +19,14 @@
 }
 
 .Open {
-    transform: translationX(0);
+    transform: translateX(0);
 }
 
 .Close {
-    transform: translationX(-100%);
+    transform: translateX(-100%);
 }
 
 .Logo {
     height: 11%;
+    margin-bottom: 32px;
 }
